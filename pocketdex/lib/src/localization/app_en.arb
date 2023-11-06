@@ -1,0 +1,6 @@
+{
+  "appTitle": "pocketdex",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
